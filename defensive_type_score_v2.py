@@ -1,14 +1,9 @@
+import json
 import itertools
 import pandas as pd
 
-with open("offensive_type_chart.json", "r") as f:
-    offensive_type_chart = json.load(f)
-
 with open("defensive_type_chart.json", "r") as f:
-    defensive_type_chart = json.load(f)
-
-print(offensive_type_chart)
-print(defensive_type_chart)
+    type_chart = json.load(f)
 
 types = list(type_chart.keys())
 
@@ -45,6 +40,10 @@ type_combo_df = pd.DataFrame(type_combo_results)
 type_combo_df["defensive_score"] = (
     type_combo_df["total_resistances"] + type_combo_df["immunities"] - type_combo_df["total_weaknesses"]
 )
+
+output_file = "defense_scores.csv"
+defensive_df = pd.DataFrame(type_combo_results)
+defensive_df.to_csv(output_file, index=False)
 
 print(type_combo_df.sort_values(by="defensive_score", ascending=False).head(10))
 
