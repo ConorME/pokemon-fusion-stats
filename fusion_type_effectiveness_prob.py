@@ -51,5 +51,8 @@ probabilities = {
 probability_df = pd.DataFrame(probabilities).T
 print(probability_df)
 
+with open("type_effectiveness.json", "w") as json_file:
+    json.dump(probabilities, json_file, indent=4)
+
 probability_df.to_csv("type_effectiveness_probabilities.csv")
 

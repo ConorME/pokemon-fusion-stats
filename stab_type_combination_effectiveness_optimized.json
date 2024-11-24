@@ -1,0 +1,1370 @@
+{
+    "normal/normal": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/fire": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/water": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/electric": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/grass": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/ice": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/fighting": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/poison": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/ground": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/flying": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/psychic": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/bug": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/rock": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/ghost": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/dragon": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/dark": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/steel": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "normal/fairy": {
+        "Super Effective (x4)": 0.0,
+        "Super Effective (x2)": 0.0,
+        "Resisted (x1/2)": 0.18628399893391687,
+        "Resisted (x1/4)": 0.0017393987852263322,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.7122245757098259
+    },
+    "fire/fire": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/water": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/electric": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/grass": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/ice": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/fighting": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/poison": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/ground": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/flying": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/psychic": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/bug": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/rock": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/ghost": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/dragon": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/dark": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/steel": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "fire/fairy": {
+        "Super Effective (x4)": 0.07379352588290854,
+        "Super Effective (x2)": 0.21874030744964548,
+        "Resisted (x1/2)": 0.2576180523409409,
+        "Resisted (x1/4)": 0.013829467223398966,
+        "Immune": 0.0,
+        "Neutral": 0.4360186471031061
+    },
+    "water/water": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/electric": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/grass": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/ice": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/fighting": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/poison": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/ground": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/flying": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/psychic": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/bug": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/rock": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/ghost": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/dragon": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/dark": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/steel": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "water/fairy": {
+        "Super Effective (x4)": 0.045599991271834055,
+        "Super Effective (x2)": 0.1773625664548528,
+        "Resisted (x1/2)": 0.30510550949889415,
+        "Resisted (x1/4)": 0.004320442143949277,
+        "Immune": 0.0,
+        "Neutral": 0.4676114906304697
+    },
+    "electric/electric": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/grass": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/ice": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/fighting": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/poison": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/ground": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/flying": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/psychic": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/bug": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/rock": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/ghost": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/dragon": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/dark": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/steel": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "electric/fairy": {
+        "Super Effective (x4)": 0.05961493202161468,
+        "Super Effective (x2)": 0.2245320689961518,
+        "Resisted (x1/2)": 0.1898718985787117,
+        "Resisted (x1/4)": 0.0014541747908747025,
+        "Immune": 0.15341621973781214,
+        "Neutral": 0.37111070587483497
+    },
+    "grass/grass": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/ice": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/fighting": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/poison": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/ground": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/flying": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/psychic": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/bug": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/rock": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/ghost": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/dragon": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/dark": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/steel": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "grass/fairy": {
+        "Super Effective (x4)": 0.05502485189393408,
+        "Super Effective (x2)": 0.1461843108099894,
+        "Resisted (x1/2)": 0.2707103012619993,
+        "Resisted (x1/4)": 0.08225828825079762,
+        "Immune": 0.0,
+        "Neutral": 0.4458222477832796
+    },
+    "ice/ice": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/fighting": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/poison": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/ground": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/flying": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/psychic": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/bug": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/rock": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/ghost": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/dragon": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/dark": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/steel": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "ice/fairy": {
+        "Super Effective (x4)": 0.09357217336007893,
+        "Super Effective (x2)": 0.24208815135886633,
+        "Resisted (x1/2)": 0.23374028407062958,
+        "Resisted (x1/4)": 0.007930162203612525,
+        "Immune": 0.0,
+        "Neutral": 0.42266922900681264
+    },
+    "fighting/fighting": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/poison": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/ground": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/flying": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/psychic": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/bug": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/rock": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/ghost": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/dragon": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/dark": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/steel": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "fighting/fairy": {
+        "Super Effective (x4)": 0.06983156198322633,
+        "Super Effective (x2)": 0.19480954674322515,
+        "Resisted (x1/2)": 0.21809816381208882,
+        "Resisted (x1/4)": 0.030685737709261675,
+        "Immune": 0.09975202657103091,
+        "Neutral": 0.3868229631811671
+    },
+    "poison/poison": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/ground": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/flying": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/psychic": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/bug": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/rock": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/ghost": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/dragon": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/dark": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/steel": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "poison/fairy": {
+        "Super Effective (x4)": 0.024802018700095543,
+        "Super Effective (x2)": 0.15264938801529299,
+        "Resisted (x1/2)": 0.2283257039811347,
+        "Resisted (x1/4)": 0.011507151640973129,
+        "Immune": 0.11155842961591395,
+        "Neutral": 0.47115730804658973
+    },
+    "ground/ground": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/flying": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/psychic": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/bug": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/rock": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/ghost": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/dragon": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/dark": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/steel": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "ground/fairy": {
+        "Super Effective (x4)": 0.07481129237641462,
+        "Super Effective (x2)": 0.23187619720044078,
+        "Resisted (x1/2)": 0.12269931000730984,
+        "Resisted (x1/4)": 0.002149310864540423,
+        "Immune": 0.2297253277348383,
+        "Neutral": 0.338738561816456
+    },
+    "flying/flying": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/psychic": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/bug": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/rock": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/ghost": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/dragon": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/dark": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/steel": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "flying/fairy": {
+        "Super Effective (x4)": 0.07027420468484308,
+        "Super Effective (x2)": 0.27823210998735975,
+        "Resisted (x1/2)": 0.1719822755887226,
+        "Resisted (x1/4)": 0.003926116075255494,
+        "Immune": 0.0,
+        "Neutral": 0.4755852936638191
+    },
+    "psychic/psychic": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "psychic/bug": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "psychic/rock": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "psychic/ghost": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "psychic/dragon": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "psychic/dark": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "psychic/steel": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "psychic/fairy": {
+        "Super Effective (x4)": 0.022256823165799307,
+        "Super Effective (x2)": 0.16807953852939755,
+        "Resisted (x1/2)": 0.17729087080599937,
+        "Resisted (x1/4)": 0.00236751501322473,
+        "Immune": 0.12094744241358726,
+        "Neutral": 0.5090578100719918
+    },
+    "bug/bug": {
+        "Super Effective (x4)": 0.03715549071775138,
+        "Super Effective (x2)": 0.15837257111506997,
+        "Resisted (x1/2)": 0.30171399358791523,
+        "Resisted (x1/4)": 0.03752332056839063,
+        "Immune": 0.0,
+        "Neutral": 0.4652346240108728
+    },
+    "bug/rock": {
+        "Super Effective (x4)": 0.03715549071775138,
+        "Super Effective (x2)": 0.15837257111506997,
+        "Resisted (x1/2)": 0.30171399358791523,
+        "Resisted (x1/4)": 0.03752332056839063,
+        "Immune": 0.0,
+        "Neutral": 0.4652346240108728
+    },
+    "bug/ghost": {
+        "Super Effective (x4)": 0.03715549071775138,
+        "Super Effective (x2)": 0.15837257111506997,
+        "Resisted (x1/2)": 0.30171399358791523,
+        "Resisted (x1/4)": 0.03752332056839063,
+        "Immune": 0.0,
+        "Neutral": 0.4652346240108728
+    },
+    "bug/dragon": {
+        "Super Effective (x4)": 0.03715549071775138,
+        "Super Effective (x2)": 0.15837257111506997,
+        "Resisted (x1/2)": 0.30171399358791523,
+        "Resisted (x1/4)": 0.03752332056839063,
+        "Immune": 0.0,
+        "Neutral": 0.4652346240108728
+    },
+    "bug/dark": {
+        "Super Effective (x4)": 0.03715549071775138,
+        "Super Effective (x2)": 0.15837257111506997,
+        "Resisted (x1/2)": 0.30171399358791523,
+        "Resisted (x1/4)": 0.03752332056839063,
+        "Immune": 0.0,
+        "Neutral": 0.4652346240108728
+    },
+    "bug/steel": {
+        "Super Effective (x4)": 0.03715549071775138,
+        "Super Effective (x2)": 0.15837257111506997,
+        "Resisted (x1/2)": 0.30171399358791523,
+        "Resisted (x1/4)": 0.03752332056839063,
+        "Immune": 0.0,
+        "Neutral": 0.4652346240108728
+    },
+    "bug/fairy": {
+        "Super Effective (x4)": 0.03715549071775138,
+        "Super Effective (x2)": 0.15837257111506997,
+        "Resisted (x1/2)": 0.30171399358791523,
+        "Resisted (x1/4)": 0.03752332056839063,
+        "Immune": 0.0,
+        "Neutral": 0.4652346240108728
+    },
+    "rock/rock": {
+        "Super Effective (x4)": 0.09589916474569085,
+        "Super Effective (x2)": 0.2846379603523062,
+        "Resisted (x1/2)": 0.17554212041440084,
+        "Resisted (x1/4)": 0.0023379015930461455,
+        "Immune": 0.0,
+        "Neutral": 0.44158285289455596
+    },
+    "rock/ghost": {
+        "Super Effective (x4)": 0.09589916474569085,
+        "Super Effective (x2)": 0.2846379603523062,
+        "Resisted (x1/2)": 0.17554212041440084,
+        "Resisted (x1/4)": 0.0023379015930461455,
+        "Immune": 0.0,
+        "Neutral": 0.44158285289455596
+    },
+    "rock/dragon": {
+        "Super Effective (x4)": 0.09589916474569085,
+        "Super Effective (x2)": 0.2846379603523062,
+        "Resisted (x1/2)": 0.17554212041440084,
+        "Resisted (x1/4)": 0.0023379015930461455,
+        "Immune": 0.0,
+        "Neutral": 0.44158285289455596
+    },
+    "rock/dark": {
+        "Super Effective (x4)": 0.09589916474569085,
+        "Super Effective (x2)": 0.2846379603523062,
+        "Resisted (x1/2)": 0.17554212041440084,
+        "Resisted (x1/4)": 0.0023379015930461455,
+        "Immune": 0.0,
+        "Neutral": 0.44158285289455596
+    },
+    "rock/steel": {
+        "Super Effective (x4)": 0.09589916474569085,
+        "Super Effective (x2)": 0.2846379603523062,
+        "Resisted (x1/2)": 0.17554212041440084,
+        "Resisted (x1/4)": 0.0023379015930461455,
+        "Immune": 0.0,
+        "Neutral": 0.44158285289455596
+    },
+    "rock/fairy": {
+        "Super Effective (x4)": 0.09589916474569085,
+        "Super Effective (x2)": 0.2846379603523062,
+        "Resisted (x1/2)": 0.17554212041440084,
+        "Resisted (x1/4)": 0.0023379015930461455,
+        "Immune": 0.0,
+        "Neutral": 0.44158285289455596
+    },
+    "ghost/ghost": {
+        "Super Effective (x4)": 0.022892732399107857,
+        "Super Effective (x2)": 0.18739372289008277,
+        "Resisted (x1/2)": 0.0701744542168731,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.2536420610317004,
+        "Neutral": 0.4658970294622359
+    },
+    "ghost/dragon": {
+        "Super Effective (x4)": 0.022892732399107857,
+        "Super Effective (x2)": 0.18739372289008277,
+        "Resisted (x1/2)": 0.0701744542168731,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.2536420610317004,
+        "Neutral": 0.4658970294622359
+    },
+    "ghost/dark": {
+        "Super Effective (x4)": 0.022892732399107857,
+        "Super Effective (x2)": 0.18739372289008277,
+        "Resisted (x1/2)": 0.0701744542168731,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.2536420610317004,
+        "Neutral": 0.4658970294622359
+    },
+    "ghost/steel": {
+        "Super Effective (x4)": 0.022892732399107857,
+        "Super Effective (x2)": 0.18739372289008277,
+        "Resisted (x1/2)": 0.0701744542168731,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.2536420610317004,
+        "Neutral": 0.4658970294622359
+    },
+    "ghost/fairy": {
+        "Super Effective (x4)": 0.022892732399107857,
+        "Super Effective (x2)": 0.18739372289008277,
+        "Resisted (x1/2)": 0.0701744542168731,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.2536420610317004,
+        "Neutral": 0.4658970294622359
+    },
+    "dragon/dragon": {
+        "Super Effective (x4)": 0.002881853363694882,
+        "Super Effective (x2)": 0.08967255350287796,
+        "Resisted (x1/2)": 0.0875871452818808,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.11391035861851836,
+        "Neutral": 0.705948089233028
+    },
+    "dragon/dark": {
+        "Super Effective (x4)": 0.002881853363694882,
+        "Super Effective (x2)": 0.08967255350287796,
+        "Resisted (x1/2)": 0.0875871452818808,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.11391035861851836,
+        "Neutral": 0.705948089233028
+    },
+    "dragon/steel": {
+        "Super Effective (x4)": 0.002881853363694882,
+        "Super Effective (x2)": 0.08967255350287796,
+        "Resisted (x1/2)": 0.0875871452818808,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.11391035861851836,
+        "Neutral": 0.705948089233028
+    },
+    "dragon/fairy": {
+        "Super Effective (x4)": 0.002881853363694882,
+        "Super Effective (x2)": 0.08967255350287796,
+        "Resisted (x1/2)": 0.0875871452818808,
+        "Resisted (x1/4)": 0.0,
+        "Immune": 0.11391035861851836,
+        "Neutral": 0.705948089233028
+    },
+    "dark/dark": {
+        "Super Effective (x4)": 0.020681077492086204,
+        "Super Effective (x2)": 0.18442926367010026,
+        "Resisted (x1/2)": 0.22831946957688656,
+        "Resisted (x1/4)": 0.0012297362379422726,
+        "Immune": 0.0,
+        "Neutral": 0.5653404530229846
+    },
+    "dark/steel": {
+        "Super Effective (x4)": 0.020681077492086204,
+        "Super Effective (x2)": 0.18442926367010026,
+        "Resisted (x1/2)": 0.22831946957688656,
+        "Resisted (x1/4)": 0.0012297362379422726,
+        "Immune": 0.0,
+        "Neutral": 0.5653404530229846
+    },
+    "dark/fairy": {
+        "Super Effective (x4)": 0.020681077492086204,
+        "Super Effective (x2)": 0.18442926367010026,
+        "Resisted (x1/2)": 0.22831946957688656,
+        "Resisted (x1/4)": 0.0012297362379422726,
+        "Immune": 0.0,
+        "Neutral": 0.5653404530229846
+    },
+    "steel/steel": {
+        "Super Effective (x4)": 0.021826649272678814,
+        "Super Effective (x2)": 0.1459972786825457,
+        "Resisted (x1/2)": 0.3317388844468759,
+        "Resisted (x1/4)": 0.008212268995840094,
+        "Immune": 0.0,
+        "Neutral": 0.4922249186020595
+    },
+    "steel/fairy": {
+        "Super Effective (x4)": 0.021826649272678814,
+        "Super Effective (x2)": 0.1459972786825457,
+        "Resisted (x1/2)": 0.3317388844468759,
+        "Resisted (x1/4)": 0.008212268995840094,
+        "Immune": 0.0,
+        "Neutral": 0.4922249186020595
+    },
+    "fairy/fairy": {
+        "Super Effective (x4)": 0.03288180660566302,
+        "Super Effective (x2)": 0.1827896153528439,
+        "Resisted (x1/2)": 0.24092855216871545,
+        "Resisted (x1/4)": 0.002730669060677898,
+        "Immune": 0.0,
+        "Neutral": 0.5406693568120997
+    }
+}
